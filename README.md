@@ -118,3 +118,27 @@ npm run dev
 - After that search for the food which you loved most.
 - Go Add to cart & place the order 
 - Enjoy the meal.
+
+  ## 🖼️ App Preview 
+
+Below is a quick preview of the Tomato UI:
+- User UI
+<p align="center">  
+  <img src="./assets/Image1.png" width="400" />
+  <img src="./assets/Image2.png" width="400" />
+   <img src="./assets/Image3.png" width="400" />
+  <img src="./assets/Image4.png" width="400" />  
+</p>
+
+- Admin UI
+<p align = "center">
+      <img src="./assets/Image5.png" width="400" />
+   <img src="./assets/Image6.png" width="400" />
+   <img src="./assets/Image7.png" width="400" />
+</p>
+
+## ⭐ Feedback
+
+If you like this project, don’t forget to ⭐ star the repository.
+
+Your support motivates me to build more amazing full-stack applications! 🚀💙
