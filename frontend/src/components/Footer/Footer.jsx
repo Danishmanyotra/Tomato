@@ -8,7 +8,7 @@ const Footer = () => {
        <div className='footer-content'>
         <div className='footer-content-left'>
              <img src={assets.logo} alt=""/>
-             <p>Lorem Ipsum is simply dummy text of the printing and typesetting  industry i have created this website to enhance my coding skills like to deep down into the coding world.</p>
+             <p>"Tomato isn't just an app; it’s your personal concierge for the best meals in town. Fresh, fast, and always delicious."</p>
              <div className='footer-social-icons'>
                <img src={assets.facebook_icon} alt="" />
                <img src={assets.twitter_icon} alt="" />
@@ -27,8 +27,8 @@ const Footer = () => {
         <div className='footer-content-right'>
               <h2>GET IN TOUCH</h2>
               <ul>
-                <li>+1-453-234-3457</li>
-                <li>contact@tomato.com</li>
+                <li>+91 6005935329</li>
+                <li>tomato@gmail.com</li>
               </ul>
         </div>
        </div>
